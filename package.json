@@ -1,0 +1,19 @@
+{
+  "name": "cp-folder",
+  "version": "1.0.3",
+  "description": "copy folder recursively",
+  "main": "cp-folder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bill0119/cp-folder.git"
+  },
+  "author": "bill0119",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bill0119/cp-folder/issues"
+  },
+  "homepage": "https://github.com/bill0119/cp-folder#readme"
+}
