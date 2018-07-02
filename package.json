@@ -1,6 +1,6 @@
 {
   "name": "cp-folder",
-  "version": "1.0.3",
+  "version": "1.0.7",
   "description": "copy folder recursively",
   "main": "cp-folder.js",
   "scripts": {
